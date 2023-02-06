@@ -38,7 +38,7 @@ export const About = () => {
               <div className="about-right-contained">
                 <h4 className="h4">
                   <a className="about-link" href="https://objkt.com/asset/KT1S1m5QUCm573bkis96MhuS7jfjJs6XcBeg/0" target="_blank">
-                    <span className="capitalize">Buy</span> ENTRY TOKEN
+                    <span className="capitalize">Buy</span> ENTRY TICKET
                   </a>
                 </h4>
                 <p>
