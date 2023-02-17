@@ -21,7 +21,7 @@ function App() {
         <button className="close close--deny" onClick={() => document.body.classList.toggle("deny-popup--open")}>
         </button>
         <div className="deny-popup-text">
-          You will need to <a href="https://objkt.com/asset/KT1S1m5QUCm573bkis96MhuS7jfjJs6XcBeg/0" target="blank" className="link">purchase an NFT ticket</a> and 
+          You will need to <a href="https://objkt.com/asset/KT1REifFaPU6hfeiCRgtCFbBkREkuNwr7488/1" target="blank" className="link">purchase an NFT ticket</a> and 
           then connect your Tezos wallet to visit the experience and collect memento artworks.
         </div>
       </div>
@@ -36,7 +36,7 @@ function App() {
               Floodplains.XYZ is a virtual 3D experience from new media artist Michelle Brown about the impact of dramatic weather events caused by climate change.
             </p>
             <p>
-              You will need to <a className="link" href="https://objkt.com/asset/KT1S1m5QUCm573bkis96MhuS7jfjJs6XcBeg/0" target="_blank">
+              You will need to <a className="link" href="https://objkt.com/asset/KT1REifFaPU6hfeiCRgtCFbBkREkuNwr7488/1" target="_blank">
                 purchase an NFT ticket</a> and then connect your Tezos wallet to visit the experience and collect memento artworks. There are 10 collectible items but you can only take 5 with you each time you do the experience.
             </p>
             <p>

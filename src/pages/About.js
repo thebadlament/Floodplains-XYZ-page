@@ -11,27 +11,13 @@ export const About = () => {
               <h3 className="h3">
                 Artist Statement
               </h3>
-              <p>It was an early Sunday morning in late February, my phone rang and my anxiety started to flutter. It had been raining non-stop in Brisbane for a while, reminiscent of the incessant deluge from 2011 that caused our city to flood in many residential areas that had not flooded for thirty or so years. </p>
-
-              <p>I looked at my phone vibrating, it was my boss from the makerspace I worked at part time, and I knew what it meant instantly, as our fabrication lab is on the basement level directly on the banks of the Brisbane river.</p>
-
-              <p>‘What do you need me to take?’ he asked.</p>
-
-              <p>Panicked, I couldn’t think of anything but my work laptop, racking my brain I drew blanks. It was lucky that I didn’t really had anything of value at work, a bunch of incomplete electronics projects, CNC prototypes and some fancy acrylic I was still debating what what art project to use it for. </p>
-
-              <p>But that question continued to haunt me over the coming weeks as I saw the devastation the floods caused. Friends, strangers and entire communities lost everything. </p>
-
-              <p>‘What do you need me to take?’</p>
-
-              <p>I thought about how lucky I was to have been asked the question, while others had no time and barely escaped with their lives and their pets.</p>
-
-              <p>I started to ask other people; what do you treasure? What would you take if you only had a short time to evacuate? After many discussions, I gathered some interesting insight into different peoples choices.</p>
-
-              <p>This immersive 3D experience has been created to provoke thought around your own personal choices, consumer culture, and to highlight the anxiety and stress that climate change is causing through extreme weather events. </p>
-
-              <p>I am releasing this new work with the collectible 3D pieces listed as NFTs on the Tezos Blockchain, chosen to highlight its low energy impact and economic barriers, making it a popular and diverse community of artists.</p>
-
-              <p>10% off all income generated through FloodplainsXYZ will be donated to climate action via - <a className="about-link" target="_blank" href="https://www.coolearth.org/">https://www.coolearth.org/</a></p>
+              <p>I’ve been through two major flooding events in my hometown of Brisbane, in Queensland, Australia, in 2011 and 2022. Many people were impacted and lives were lost.</p>
+              <p>During the 2022 floods when the water started rising quickly in the Brisbane river we knew that similar to 2011, my work place was probably going to flood and sure enough, I received a call early Sunday morning asking ‘is there anything you need me to take?</p>
+              <p>Panicked, I couldn’t think of anything but my work laptop, racking my brain I drew blanks. It was lucky that I didn’t really had anything of value at work, and I thought how fortunate I was to have been asked the question.</p>
+              <p>I started to ask other people; what do you treasure? What would you take if you only had a short time to evacuate? After many discussions, I gathered some interesting insight into different peoples choices and also heard many heartbreaking tales. </p>
+              <p>Thanks to the incredible support from <a className="about-link" target="_blank" href="https://www.despace.berlin/">despace berlin</a> and <a className="about-link" target="_blank" href="https://www.artshelp.com/">Arts Help’s Conscious Crypto Creator</a> program, I was able to create Floodplains XYZ as an immersive 3D experience to provoke thought around personal choices, consumer culture, and to highlight the anxiety and stress that climate change is causing through extreme weather events.</p>
+              <p>In a study published by <a className="about-link" target="_blank" href="https://www.earthobservatory.nasa.gov/images/148866/research-shows-more-people-living-in-floodplains">NASA</a> in August 2021, the proportion of people across the globe living in flood-prone areas has risen by 20% to 24% since 2000 — 10 times greater than the number previous models had predicted, as climate change drives extreme rainfall, rising sea levels and <a href="https://www.edf.org/are-record-breaking-hurricanes-our-new-normal" class="about-link">more intense hurricanes.</a></p>
+              <p>20% off all income generated through Floodplains XYZ will be donated to climate action via - <a className="about-link" target="_blank" href="https://www.coolearth.org/">https://www.coolearth.org/</a></p>
             </div>
             <div className="about-right">
               <img className="header-img" src="/images/elements.png"></img>
