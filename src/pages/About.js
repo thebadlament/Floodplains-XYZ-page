@@ -23,7 +23,7 @@ export const About = () => {
               <img className="header-img" src="/images/elements.png"></img>
               <div className="about-right-contained">
                 <h4 className="h4">
-                  <a className="about-link" href="https://objkt.com/asset/KT1S1m5QUCm573bkis96MhuS7jfjJs6XcBeg/0" target="_blank">
+                  <a className="about-link" href="https://objkt.com/asset/KT1REifFaPU6hfeiCRgtCFbBkREkuNwr7488/1" target="_blank">
                     <span className="capitalize">Buy</span> ENTRY TICKET
                   </a>
                 </h4>
@@ -45,6 +45,10 @@ export const About = () => {
                 <h5 className="h5 italic">Developer</h5>
                 <p>
                   <span>Violet Forest | <a className="about-link" href="https://violetforest.com" target="_blank">https://violetforest.com</a> | @violet_forest</span>
+                </p>
+                <h5 className="h5 italic">Sound</h5>
+                <p>
+                  <span>Phil Gullberg | <a className="about-link" href="https://cosmic.monster/" target="_blank">https://cosmic.monster/</a></span>
                 </p>
                 {/* <h4 className="h4 italic">Support</h4>
                 <p>

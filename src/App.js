@@ -45,7 +45,7 @@ function App() {
             <p>
               If you have a VR headset click on the 'VR' button to learn more, there is currently no ability to collect the NFTs in the VR version
             </p>
-            <img src="/images/WASD.png" className="center-img"></img>
+            <img src="/images/wasd.png" className="center-img"></img>
             <div className="row">
               <p className="column">
                 Space - Jump
